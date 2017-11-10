@@ -12,7 +12,7 @@ class Header extends React.Component {
     /**
     * @type {object}
     * @property {string} title - Title.
-    * @property {object} rotes - Routes.
+    * @property {object} routes - Routes.
     */
     this.state = {
       title: 'Hello',

@@ -12,10 +12,12 @@ export default [
         path: '/',
         exact: true,
         component: Home,
+        label: 'Home',
       },
       {
         path: '/login',
         component: Login,
+        label: 'Login',
       },
     ],
   },

@@ -18,10 +18,6 @@ class Header extends React.Component {
       title: 'Hello',
       routes: [
         {
-          route: '/products',
-          label: 'Products',
-        },
-        {
           route: '/login',
           label: 'Login',
         },
